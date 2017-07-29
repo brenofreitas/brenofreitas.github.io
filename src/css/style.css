@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #fcfcfc;
+    font-family: Helvetica, sans-serif;
+    font-size: 15pt;
+}
+
+header{
+    background-color: #1A2140;
+    width: 100vw;
+    height: 40vh;
+    text-align: center;
+}
+
+.header-info{
+    position: absolute;
+    width: 100vw;
+    text-align: center;
+    top: 15vh;
+    color: #fff;
+}
+
+.post{
+
+}
